@@ -1,16 +1,15 @@
-### Hi there 👋
+# Bonjour 👋
 
-<!--
-**CeliaMarty/CeliaMarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je m'appelle Célia Marty, actuellement en Master 1 - Data Analyst à l'IA School de Toulouse.
 
-Here are some ideas to get you started:
+## Mes projets 💬
+- **Cours SQL pour les nuls
+- **Analyse de la base de données Spotify** : [Rstudio](
+- **Création d'une application web** : [Github](https://github.com/CeliaMarty/Projet-R-Shiny-)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Me contacter 📫
+
+Vous pouvez me joindre à l'adresse suivante : celiamartypro@gmail.com
+ou via mon Linkedin -> [MonLinkedin](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit)
+
+
