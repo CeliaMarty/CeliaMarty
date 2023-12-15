@@ -4,7 +4,7 @@ Je m'appelle Célia Marty, actuellement en Master 1 - Data Analyst à l'IA Schoo
 
 ## Mes projets 💬
 - **Cours SQL pour les nuls** [SQL]
-- **Analyse de la base de données Spotify** : [Rstudio](CeliaMARTY-Spotify.R)
+- **Analyse de la base de données Spotify** : [Rstudio](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
 - **Création d'une application web** : [Github](https://github.com/CeliaMarty/Projet-R-Shiny-)
 
 ## Me contacter 📫
