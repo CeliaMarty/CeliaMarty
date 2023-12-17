@@ -1,6 +1,6 @@
 # Bonjour 👋
 
-Je m'appelle Célia Marty, actuellement en Master 1 - Data Analyst à l'IA School de Toulouse.
+Je m'appelle Célia Marty, et je suis actuellement en Master 1 - Data Analyst/Scientist à l'IA School de Toulouse.
 
 ## Mes projets 💬
 - **Cours SQL pour les nuls** [SQL]
