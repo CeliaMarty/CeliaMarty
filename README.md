@@ -4,8 +4,8 @@ Je m'appelle Célia Marty, et je suis actuellement en Master 1 - Data Analyst/Sc
 
 ## Mes projets 💬
 - **Cours SQL pour les nuls** :  [SQL](SQLPourlesNuls.pdf)
-- **Analyse de la base de données Spotify** : [Rstudio](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
-- **Création d'une application web** : [Github](https://github.com/CeliaMarty/Projet-R-Shiny-)
+- **Analyse des chansons les plus streamées sur Spotify en 2023** : [Rstudio](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
+- **Création d'une application web sur les délits à Los Angeles** : [Github](https//github.com/CeliaMarty/Projet-R-Shiny-)
 
 ## Me contacter 📫
 
