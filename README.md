@@ -2,7 +2,11 @@
 
 Je m'appelle Célia Marty, et je suis actuellement en Master 1 - Data Analyst/Scientist à l'IA School de Toulouse.
 
-## Mes compétences 
+## Mes compétences ✔️
+- Gestion de projet : Marketing stratégique 
+- Gestion de bases de données: MySQL
+- Conception, développement de logiciels: R, R-Shiny
+- Conception de site Web: HTML
 
 ## Mes projets 💬
 - **Cours SQL pour les nuls** :  [SQL Présentation](SQLPourlesNuls.pdf)
