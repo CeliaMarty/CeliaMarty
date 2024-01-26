@@ -7,6 +7,7 @@ Je m'appelle Célia Marty, et je suis actuellement en Master 1 - Data Analyst/Sc
 - Gestion de bases de données: MySQL
 - Conception, développement de logiciels: R, R-Shiny
 - Conception de site Web: HTML
+
 Pour plus d'informations : [IA SCHOOL](https://www.intelligence-artificielle-school.com/les-formations/cycle-mastere/)
 
 ## Mes projets 💬
