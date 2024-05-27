@@ -1,12 +1,16 @@
 # Bonjour 👋
 
-Je m'appelle Célia Marty, et je suis actuellement en Master 1 - Data Analyst/Scientist à l'IA School de Toulouse.
+Je m'appelle Célia Marty, et je suis en fin de Master 1 - Data Analyst/Scientist à l'IA School de Toulouse.
+Je suis actuellement stagiaire jusqu'à fin août chez Fitting Box à Lébège en tant qu'assistante en Business Intelligence.
 
 ## Mes compétences aquises à l'IA School
 - Gestion de projet : Marketing stratégique 
-- Gestion de bases de données: MySQL
+- Gestion de bases de données: MySQL, MongoDB
 - Conception, développement de logiciels: R, R-Shiny
 - Conception de site Web: HTML
+- Scrapping de données 
+- Analyse de données et prédicitions (Python)
+- Bsuiness Model 
 
 Pour plus d'informations : [IA SCHOOL](https://www.intelligence-artificielle-school.com/les-formations/cycle-mastere/)
 
