@@ -1,24 +1,5 @@
-#CELIA MARTY M1 IA
-
-#Most Streamed Spotify Songs 2023 : https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 
 
-#ETAPE 1 :  Formulez clairement les questions spécifiques auxquelles vous souhaitez répondre.
-#La problématique générale est la suivante : Quel type de musique faut-il produire pour avoir du succès ?
-#Pour cela on va répondre à différentes questions : 
-#- Est-ce que le type de notes musicales utilisé dans une chanson influence sa popularité ? 
-#- Est-ce que le mode utilisé dans une chanson influence sa popularité ?
-#- Est-ce que les chansons ayant une danceability élevée rencontrent le plus de succès ?
-#- Est-ce que les chansons qui ont un taux d’instruments élevé rencontrent le plus de succès ?
-
-#ETAPE 2 : Rédigez une courte introduction présentant votre analyse et pourquoi elle est pertinente.
-#Dans cette analyse de données tirées des chansons les plus streamées sur Spotify en 2023, on va s'intéresser aux différents facteurs qui contribuent au succès d'une chanson, mesuré ici grâce au nombre de streams.
-#Nous allons utiliser les facteurs musicaux tels que le type notes utilisées, le type de mode, le taux de dansabilité, et enfin le taux d'intruments dans une chanson. 
-#Cela va nous aider à comprendre si ces facteurs influent sur la popularité d'une chanson. 
-#On pourra donc à la fin, en déduire quel type de chanson il faut produire pour être beaucoup streamé sur Spotify et avoir du succès.
-#Ces informations peuvent ensuite permettre à des producteurs, des artistes...d'optimiser leurs chances d'avoir des chansons à succès.
-
-#ETAPE 3 : Utilisez des outils statistiques pour comprendre la structure de vos données.
 #Importation des données spotify dans R 
 spotify <- read.csv("/Users/celiamarty/Desktop/R studio/spotify-2023.csv", header= TRUE, sep =",")
 
