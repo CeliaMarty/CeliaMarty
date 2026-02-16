@@ -31,10 +31,10 @@ Gestion de projet
 
 ## 📂 Projets Data
 - **Cours SQL pour les nuls** :  [SQL Présentation](SQLPourlesNuls.pdf)
-- **Analyse des chansons les plus streamées sur Spotify en 2023** Master 1 : [Rstudio Analyse de données](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
-- **Création d'une application web sur les délits à Los Angeles** Master 1 : [R-Shiny Web APP](https://github.com/CeliaMarty/Projet-R-Shiny-)
-- **Création d'un application web sur des avis clients récoltés sur Tee Public** Master 1 : [Shopper.Ressenti](https://github.com/CeliaMarty/SHOPPER.RESSENTI.git)
-- **Scraping du site SchloukMap pour identifier les meilleurs prix en Happy Hours à Toulouse** Master 1 : [Happy Hours](https://github.com/CeliaMarty/Scraping/tree/master)
+- **Analyse des chansons les plus streamées sur Spotify en 2023** - Master 1 : [Rstudio Analyse de données](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
+- **Création d'une application web sur les délits à Los Angeles** - Master 1 : [R-Shiny Web APP](https://github.com/CeliaMarty/Projet-R-Shiny-)
+- **Création d'un application web sur des avis clients récoltés sur Tee Public** - Master 1 : [Shopper.Ressenti](https://github.com/CeliaMarty/SHOPPER.RESSENTI.git)
+- **Scraping du site SchloukMap pour identifier les meilleurs prix en Happy Hours à Toulouse** - Master 1 : [Happy Hours](https://github.com/CeliaMarty/Scraping/tree/master)
 
 ## Me contacter 📫
 
