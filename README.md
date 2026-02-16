@@ -35,9 +35,9 @@ Gestion de projet
 - **Création d'une application web sur les délits à Los Angeles** - Master 1 : [R-Shiny Web APP](https://github.com/CeliaMarty/Projet-R-Shiny-)
 - **Création d'un application web sur des avis clients récoltés sur Tee Public** - Master 1 : [Shopper.Ressenti](https://github.com/CeliaMarty/SHOPPER.RESSENTI.git)
 - **Scraping du site SchloukMap pour identifier les meilleurs prix en Happy Hours à Toulouse** - Master 1 : [Happy Hours](https://github.com/CeliaMarty/Scraping/tree/master)
-- **Projet de Text Mining** - Master 2 : [Happy Hours](https://github.com/CeliaMarty/Scraping/tree/master)
-- **Projet XLNet classification des émotions** - Master 2 : [Happy Hours](https://github.com/CeliaMarty/Scraping/tree/master)
-- **Projet Rugby Tournoi des Six Nations** - Personnel : [Happy Hours](https://github.com/CeliaMarty/Scraping/tree/master)
+- **Projet de Text Mining** - Master 2 : [Text Mining Projet](https://github.com/CeliaMarty/Classification-d-articles)
+- **Projet XLNet classification des émotions** - Master 2 : [XLNet Projet](https://github.com/CeliaMarty/Classification-des-emotions)
+- **Projet Rugby Tournoi des Six Nations** - Personnel : [Tournoi Six Nations](https://github.com/CeliaMarty/Tournoi-des-Six-Nations)
 
 ## Me contacter 📫
 
