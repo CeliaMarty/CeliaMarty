@@ -15,20 +15,19 @@ Je suis actuellement à la recherche d’un poste en Data Analyst / BI Analyst.
 
 ## 🛠 Stack technique
 
-Analyse & Data
-Python (Pandas, visualisation, prédictions)
-SQL
-Excel avancé
-Amazon QuickSight
-Analyse CRM
-Bases de données
-MySQL
-MongoDB
-R / R-Shiny
-HTML
-Web Scraping
-Gestion de projet
-
+Analyse & Data  
+Python (Pandas, visualisation, prédictions)  
+SQL  
+Excel avancé  
+Amazon QuickSight  
+Analyse CRM  
+Bases de données  
+MySQL  
+MongoDB  
+R / R-Shiny  
+HTML  
+Web Scraping  
+Gestion de projet  
 
 ## 📂 Projets Data
 - **Cours SQL pour les nuls** :  [SQL Présentation](SQLPourlesNuls.pdf)
