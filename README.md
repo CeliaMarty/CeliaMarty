@@ -1,20 +1,36 @@
 # Bonjour 👋
 
-Je m'appelle Célia Marty, et je suis en fin de Master 1 - Data Analyst/Scientist à l'IA School de Toulouse.
-Je suis actuellement stagiaire jusqu'à fin août chez Fitting Box à Lébège en tant qu'assistante en Business Intelligence.
+Diplômée d’un Mastère Intelligence Artificielle & Management – Nexa Digital School
+Data Analyst / Business Intelligence
+Toulouse – Ouverte aux opportunités
 
-## Mes compétences aquises à l'IA School
-- Gestion de projet : Marketing stratégique 
-- Gestion de bases de données: MySQL, MongoDB
-- Conception, développement de logiciels: R, R-Shiny
-- Conception de site Web: HTML
-- Scrapping de données 
-- Analyse de données et prédicitions (Python)
-- Bsuiness Model 
+## 🚀 Profil
+Data Analyst orientée business, avec 2 ans d’expérience en Business Intelligence chez Fittingbox.
+J’accompagne la prise de décision grâce à :
+L’analyse de données
+La visualisation et la création de dashboards
+Le suivi des KPIs
+L’optimisation des processus de reporting
+Je suis actuellement à la recherche d’un poste en Data Analyst / BI Analyst.
 
-Pour plus d'informations : [IA SCHOOL](https://www.intelligence-artificielle-school.com/les-formations/cycle-mastere/)
+## 🛠 Stack technique
 
-## Mes projets 💬
+Analyse & Data
+Python (Pandas, visualisation, prédictions)
+SQL
+Excel avancé
+Amazon QuickSight
+Analyse CRM
+Bases de données
+MySQL
+MongoDB
+R / R-Shiny
+HTML
+Web Scraping
+Gestion de projet
+
+
+## 📂 Projets Data
 - **Cours SQL pour les nuls** :  [SQL Présentation](SQLPourlesNuls.pdf)
 - **Analyse des chansons les plus streamées sur Spotify en 2023** : [Rstudio Analyse de données](https://github.com/CeliaMarty/CeliaMarty/blob/main/CeliaMARTY-Spotify.R)
 - **Création d'une application web sur les délits à Los Angeles** : [R-Shiny Web APP](https://github.com/CeliaMarty/Projet-R-Shiny-)
