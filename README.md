@@ -41,7 +41,8 @@ Gestion de projet
 
 ## Me contacter 📫
 
-Vous pouvez me joindre à l'adresse suivante : celiamartypro@gmail.com
+Vous pouvez me joindre à l'adresse suivante :  
+celiamartypro@gmail.com  
 ou via mon Linkedin -> [MonLinkedin](www.linkedin.com/in/célia-m-4b0448220)
 
 
