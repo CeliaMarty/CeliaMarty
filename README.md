@@ -1,17 +1,17 @@
 # Bonjour 👋
 
-Diplômée d’un Mastère Intelligence Artificielle & Management – Nexa Digital School
-Data Analyst / Business Intelligence
-Toulouse – Ouverte aux opportunités
+Diplômée d’un Mastère Intelligence Artificielle & Management – Nexa Digital School  
+Data Analyst / Business Intelligence  
+Toulouse – Ouverte aux opportunités  
 
 ## 🚀 Profil
-Data Analyst orientée business, avec 2 ans d’expérience en Business Intelligence chez Fittingbox.
-J’accompagne la prise de décision grâce à :
-L’analyse de données
-La visualisation et la création de dashboards
-Le suivi des KPIs
-L’optimisation des processus de reporting
-Je suis actuellement à la recherche d’un poste en Data Analyst / BI Analyst.
+Data Analyst orientée business, avec 2 ans d’expérience en Business Intelligence chez Fittingbox.  
+J’accompagne la prise de décision grâce à :  
+L’analyse de données  
+La visualisation et la création de dashboards  
+Le suivi des KPIs  
+L’optimisation des processus de reporting  
+Je suis actuellement à la recherche d’un poste en Data Analyst / BI Analyst.  
 
 ## 🛠 Stack technique
 
